@@ -1,0 +1,18 @@
+export const avatarData = [
+  { id: 'avatar-1', src: 'https://images.pexels.com/photos/7345125/pexels-photo-7345125.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-2', src: 'https://images.pexels.com/photos/7345141/pexels-photo-7345141.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-3', src: 'https://images.pexels.com/photos/7345144/pexels-photo-7345144.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-4', src: 'https://images.pexels.com/photos/7345143/pexels-photo-7345143.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-5', src: 'https://images.pexels.com/photos/7345138/pexels-photo-7345138.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-6', src: 'https://images.pexels.com/photos/7345130/pexels-photo-7345130.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-7', src: 'https://images.pexels.com/photos/7345128/pexels-photo-7345128.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-8', src: 'https://images.pexels.com/photos/7345121/pexels-photo-7345121.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-9', src: 'https://images.pexels.com/photos/7345126/pexels-photo-7345126.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-10', src: 'https://images.pexels.com/photos/7345133/pexels-photo-7345133.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-11', src: 'https://images.pexels.com/photos/7345142/pexels-photo-7345142.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-12', src: 'https://images.pexels.com/photos/7345146/pexels-photo-7345146.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-13', src: 'https://images.pexels.com/photos/7345120/pexels-photo-7345120.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-14', src: 'https://images.pexels.com/photos/7345132/pexels-photo-7345132.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-15', src: 'https://images.pexels.com/photos/7345123/pexels-photo-7345123.jpeg?auto=compress&cs=tinysrgb&w=100' },
+  { id: 'avatar-16', src: 'https://images.pexels.com/photos/7345129/pexels-photo-7345129.jpeg?auto=compress&cs=tinysrgb&w=100' },
+];
