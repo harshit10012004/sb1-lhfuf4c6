@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run generate-asset-map && vite build",
+    "generate-asset-map": "node scripts/generate-asset-map.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -21,7 +22,7 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "tailwind-merge": "^2.2.1",
+    "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
